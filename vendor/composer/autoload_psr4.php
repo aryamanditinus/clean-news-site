@@ -12,5 +12,5 @@ return array(
     'PhpOption\\' => array($vendorDir . '/phpoption/phpoption/src/PhpOption'),
     'GrahamCampbell\\ResultType\\' => array($vendorDir . '/graham-campbell/result-type/src'),
     'Dotenv\\' => array($vendorDir . '/vlucas/phpdotenv/src'),
-    'Demo\\CleanNews\\' => array($baseDir . '/psr-4'),
+    'App\\' => array($baseDir . '/src'),
 );

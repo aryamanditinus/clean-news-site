@@ -30,7 +30,10 @@ class ComposerStaticInit497dcce5eee3d864d10e73aad839d98d
         'D' => 
         array (
             'Dotenv\\' => 7,
-            'Demo\\CleanNews\\' => 15,
+        ),
+        'A' => 
+        array (
+            'App\\' => 4,
         ),
     );
 
@@ -59,9 +62,9 @@ class ComposerStaticInit497dcce5eee3d864d10e73aad839d98d
         array (
             0 => __DIR__ . '/..' . '/vlucas/phpdotenv/src',
         ),
-        'Demo\\CleanNews\\' => 
+        'App\\' => 
         array (
-            0 => __DIR__ . '/../..' . '/psr-4',
+            0 => __DIR__ . '/../..' . '/src',
         ),
     );
 
